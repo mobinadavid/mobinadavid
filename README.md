@@ -1,77 +1,71 @@
-# Hi there, I'm Mobina! 👋
-
-<a href="https://github.com/mobinadavid">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=mobinadavid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-[cite_start]I'm a **Backend Developer** and a **Computer Engineering student** at K. N. Toosi University of Technology[cite: 2, 21, 22].
-
-[cite_start]My passion is building scalable and efficient backend systems and microservices, with a special focus on **Go (Golang)**[cite: 10, 18]. [cite_start]I also have a strong knowledge of blockchain technologies, including Ethereum and BSC[cite: 11].
-
-- [cite_start]🎓 Studying Computer Engineering and working as a Backend Developer[cite: 2, 16, 21].
-- [cite_start]🚀 Currently focused on mastering **microservices architecture** and high-performance distributed systems[cite: 14, 41].
-- 🌱 I'm excited to learn more about **DevOps** and dive deeper into **blockchain development**.
-- 💬 Ask me about Go, backend design patterns, or building secure APIs.
+```markdown
+# 💫 About Me:
+🔥 I’m **Mobina Davoudi Moghaddam**, a Computer Engineering student at **K. N. Toosi University of Technology**.  
+👩‍💻 I’m a **Backend Developer (mid-level)** with ~2 years of experience, mainly focused on **Go (Golang)**.  
+🔧 Specialized in **microservices**, **REST APIs**, and **high-performance backend systems**.  
+⛓️ I also have hands-on experience with **blockchain technologies** (Ethereum, BSC, Tron, Bitcoin).  
+🚀 Currently exploring **DevOps** and advancing my blockchain development journey.  
+💡 My life quote: *“Be persistent and never give up hope.”* ✨  
 
 ---
 
-### 📫 Let's Connect:
-
-<p align="left">
-<a href="mailto:mobinadavid83@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mobina-davoudi-moghaddam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-davoudi-moghaddam)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/mobinadavid)  
 
 ---
 
-### 💻 My Tech Stack:
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Echo](https://img.shields.io/badge/Echo-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+![Microservices](https://img.shields.io/badge/Microservices-%2300A86B.svg?style=for-the-badge)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![CockroachDB](https://img.shields.io/badge/CockroachDB-%234D148C.svg?style=for-the-badge&logo=cockroachlabs&logoColor=white)  
 
-* **Languages:**
-    <p align="left">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-    </p>
-* **Backend Development:**
-    <p align="left">
-        <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
-        <img src="https://img.shields.io/badge/Echo-0077B5?style=for-the-badge&logo=go&logoColor=white" alt="Echo"/>
-        <img src="https://img.shields.io/badge/GORM-9436ff?style=for-the-badge&logo=go&logoColor=white" alt="GORM"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
-        <img src="https://img.shields.io/badge/REST_API-0277BD?style=for-the-badge" alt="REST API"/>
-    </p>
-* **Databases & Storage:**
-    <p align="left">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-        <img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachdb&logoColor=white" alt="CockroachDB"/>
-    </p>
-* **Tools & Platforms:**
-    <p align="left">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    </p>
+**Dev Tools**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)  
 
 ---
 
-### 🏆 GitHub Trophies & Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mobinadavid&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinadavid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mobinadavid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mobinadavid&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinadavid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### ✨ Favorite Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobinadavid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-> "Be persistent and never give up hope."
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mobinadavid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mobinadavid&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
